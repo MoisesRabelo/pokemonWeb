@@ -1,0 +1,25 @@
+table,
+th,
+td {
+  border: 1px solid black;
+}
+td {
+  margin: 0px 20px;
+}
+
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.pages {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+span {
+  text-align: center;
+  margin: 0px 20px;
+}
