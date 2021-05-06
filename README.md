@@ -1,3 +1,3 @@
 # pokemonWeb
 
-teste
+Pra iniciar, deve-se dar npm start
